@@ -1,0 +1,50 @@
+Scorlux Firmware License
+
+Copyright (c) 2026 Pedro Castanheta. All rights reserved.
+
+"Scorlux" is a brand of Pedro Castanheta.
+
+1. Scope
+   This license applies to the firmware images (.bin files), the manifest
+   and all other files in this repository (together, the "Firmware").
+
+2. Permitted use
+   You may download the Firmware and install it only on genuine Scorlux
+   devices (scoreboard units and remotes) that you lawfully own, for the
+   purpose of updating those devices.
+
+3. Restrictions
+   Unless Pedro Castanheta gives you written permission, you may not:
+   a) install or run the Firmware on any hardware that is not a genuine
+      Scorlux device;
+   b) copy, redistribute, publish, sell, rent, sublicense or otherwise make
+      the Firmware available to third parties;
+   c) modify, decompile, disassemble or reverse engineer the Firmware,
+      except to the extent that applicable law expressly permits this
+      despite this restriction;
+   d) remove or alter any copyright, trademark or other notices.
+
+4. Third-party components
+   The Firmware includes open-source components that are licensed under
+   their own terms (including ESP-IDF and the Arduino-ESP32 core). Those
+   terms apply to those components, and nothing in this license limits
+   your rights under them. See THIRD_PARTY_NOTICES for details.
+
+5. Previous versions
+   Firmware versions published in this repository before 10 November 2026
+   were labelled with the GNU GPL v3. From 10 November 2026, all versions
+   published here are licensed only under this license.
+
+6. No warranty
+   The Firmware is provided "as is", without warranty of any kind, to the
+   extent permitted by law. Pedro Castanheta is not liable for any damage
+   arising from installing or using the Firmware, except where such
+   liability cannot be excluded by law.
+
+7. Termination
+   This license ends automatically if you break any of its terms.
+
+8. Governing law
+   This license is governed by the laws of the Czech Republic.
+
+Contact: pedrocastanheta@gmail.com
