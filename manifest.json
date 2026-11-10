@@ -1,8 +1,8 @@
 {
     "main":  {
-                 "version":  "v1.4.2",
-                 "file":  "main/main_control_encrypted_v1_4_2.bin",
-                 "size":  1409344,
+                 "version":  "v1.4.5",
+                 "file":  "main/main_control_encrypted_v1_4_5.bin",
+                 "size":  1415568,
                  "date":  "2026-11-10"
              },
     "remote":  {
