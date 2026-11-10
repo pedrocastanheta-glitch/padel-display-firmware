@@ -1,0 +1,14 @@
+{
+    "main":  {
+                 "version":  "v1.4.2",
+                 "file":  "main/main_control_encrypted_v1_4_2.bin",
+                 "size":  1409344,
+                 "date":  "2026-11-10"
+             },
+    "remote":  {
+                   "version":  "v1.3.0",
+                   "file":  "remote/remote_control_encrypted_v1_3_0.bin",
+                   "size":  1152960,
+                   "date":  "2026-11-10"
+               }
+}
